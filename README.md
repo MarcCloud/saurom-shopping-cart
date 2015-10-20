@@ -1,15 +1,12 @@
-#CloudMark React Starter
+#React's Saurom Weapon Shop
 
+A simplistic online shopping cart application.
 
-This is my own starter seed project for React applications. Feel free to use and suggest enhancements on the issues section.
+This app was written to serve as example for the article [Buckle Up with Tape — React to Changes](https://medium.com)
 
-##Features:
-
-- Webpack bundling and Express server hot middleware.
-- Babel transpiling.
-- Eslint code style checks.
-- Tape with cheerio for making easy unit tests.
-
+##Chllenge
+    - Add grouping by item name in cart widget.
+    - Add a remove button for each section in the cart widget.
 
 ##Running
 
